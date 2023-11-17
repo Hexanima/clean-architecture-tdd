@@ -32,7 +32,7 @@
 ### Usuario administrador
 
 - Como admin quiero poder ver las ventas realizadas
-- Como admin quiero poder ver los usuarios registrados .
+- ~~Como admin quiero poder ver los usuarios registrados~~
 - Como admin quiero poder deshabilitar usuarios .
 - Como admin quiero poder habilitar usuarios .
 - Como admin quiero poder quitar productos de la venta
